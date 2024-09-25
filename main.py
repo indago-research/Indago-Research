@@ -35,8 +35,8 @@ model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
  
 
 # Set HuggingFace API token
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
-#"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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+
 
 # Initialize LLM and text splitter
 #repo_id = "tiiuae/falcon-7b"
